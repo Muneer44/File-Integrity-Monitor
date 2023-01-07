@@ -1,0 +1,3 @@
+IGNORE FILE
+
+This file is not monitored as requested.
