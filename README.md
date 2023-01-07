@@ -38,7 +38,10 @@ _This application is tested and tried on Python 3.10.7 and works on more than on
 ```
 C:\Users\user> python3 "FIM/Handler.py" 
 ```
-
+- On execution of this script, it will create the following files in the FIM directory:
+  - `.baseline.txt` : Contains hashes of monitoring files
+  - `Report.txt` : Log of all the detections
+  
 ## Recommended
 - Change the `Path` from default directory
 - Change the `Baseline_name`
