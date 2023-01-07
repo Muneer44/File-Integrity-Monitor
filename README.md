@@ -1,6 +1,6 @@
 # File-Integrity-Monitor
 
-> ### _This script is capable of recursively surveiling files in the specified path._
+> ### _This script is capable of recursively surveilling files in the specified path._
 
 
 ## Description
